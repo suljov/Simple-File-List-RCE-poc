@@ -5,7 +5,7 @@
 ---
 Poc taken from:
 https://www.exploit-db.com/exploits/48979 and made into a bash script
-* script uploads a jpg file called 'pwn.jpg' which is just a php webshell called (p0wny-shell)[https://github.com/flozz/p0wny-shell]
+* script uploads a jpg file called 'pwn.jpg' which is just a php webshell called (https://github.com/flozz/p0wny-shell)[p0wny-shell]
 
 
 # Usage
