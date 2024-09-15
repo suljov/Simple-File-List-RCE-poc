@@ -11,7 +11,8 @@ and made into a bash script since the one from exploit-db dont fully work
 # Usage
 
 ```
-./exploit.sh --help                        
+$ ./exploit.sh --help                        
+
 Usage: ./exploit.sh <target_url> <file_name>
 
 Example: ./exploit.sh http://acme.org pwn.jpg
