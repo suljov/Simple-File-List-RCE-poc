@@ -5,7 +5,7 @@
 ---
 Poc taken from:
 https://www.exploit-db.com/exploits/48979
-and made into a bash script since the one from exploit-db dont fully work
+and made into a bash script
 
 
 # Usage
